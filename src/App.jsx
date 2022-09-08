@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
 import Logo from './assets/white_logo.png'
 import Card from './UI/Card'
 
@@ -19,9 +18,9 @@ const App = () => {
     return (
         <>
             <div className="de">
-                <Link to='/' className="logo">
+                <div className="logo">
                     <img src={Logo} alt="Nav Logo" />
-                </Link>
+                </div>
                 <div className="container de__container">
                     <h2>Anfragen</h2>
                     <div className="de__container-requests">
