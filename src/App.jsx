@@ -11,7 +11,7 @@ import En from './pages/en/En'
 const App = () => {
     return (
         <>
-            Ola
+            <Home />
         </>
     )
 }
