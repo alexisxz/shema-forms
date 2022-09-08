@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/shema-forms/static/css/main.7198cffe.css",
+    "main.js": "/shema-forms/static/js/main.ccfa39d1.js",
+    "static/media/white_logo.png": "/shema-forms/static/media/white_logo.a8d1dd6554b0fe4f9b3a.png",
+    "index.html": "/shema-forms/index.html",
+    "main.7198cffe.css.map": "/shema-forms/static/css/main.7198cffe.css.map",
+    "main.ccfa39d1.js.map": "/shema-forms/static/js/main.ccfa39d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7198cffe.css",
+    "static/js/main.ccfa39d1.js"
+  ]
+}
