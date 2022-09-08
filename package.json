@@ -1,7 +1,7 @@
 {
   "name": "shema-forms",
   "version": "0.1.0",
-  "homepage": "https://alexisxz.github.io/shema-forms",
+  "homepage": "http://alexisxz.github.io/shema-forms",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
