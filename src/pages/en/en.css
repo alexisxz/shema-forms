@@ -1,0 +1,22 @@
+.en__container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.en__container-requests {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+}
+
+
+/* ===== MEDIA QUERIES (medium screens) ===== */
+@media screen and (max-width: 1024px) {
+    .en__container-requests {
+        display: flex;
+        flex-direction: column;
+    }
+}

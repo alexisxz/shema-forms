@@ -1,0 +1,17 @@
+.home__container {
+    display: grid;
+    grid-template-columns: 1fr;
+    text-align: center;
+    gap: 10px;
+}
+
+.home__container-right {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    text-align: center;
+}
+
+.home__container-logo {
+    margin-top: 1rem;
+}

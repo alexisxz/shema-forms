@@ -1,0 +1,13 @@
+.de__container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.de__container-requests {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+}
