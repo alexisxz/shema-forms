@@ -10,9 +10,13 @@ import En from './pages/en/En'
 
 const App = () => {
     return (
-        <>
-            <En />
-        </>
+        <BrowserRouter>
+            <Routes>
+                <Route index element={<Home />} />
+                <Route path='de' element={<De />} />
+                <Route path='en' element={<En />} />
+            </Routes>
+        </BrowserRouter>
     )
 }
 
