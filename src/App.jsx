@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import Logo from '../../assets/white_logo.png'
-import Card from '../../UI/Card'
+import Logo from './assets/white_logo.png'
+import Card from './UI/Card'
 
 //icons
 import { MdOutlineSick } from 'react-icons/md'
